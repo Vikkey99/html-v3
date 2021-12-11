@@ -1,0 +1,22 @@
+*{
+    margin: 1em;
+    border: 1px solid black;
+    width: 100%;
+    background-color: bisque;
+}
+body{
+    width: 100%;
+}
+.nav-wrapper{
+    width: 50%;
+
+    
+}
+span{
+    width: 100%;
+    background-color: aqua;
+}
+span > a{
+    text-decoration: none;
+    color: black;
+}
