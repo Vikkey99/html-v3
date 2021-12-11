@@ -14,7 +14,7 @@ body{
 }
 span{
     width: 100%;
-    background-color: aqua;
+    ;
 }
 span > a{
     text-decoration: none;
